@@ -1,0 +1,9 @@
+.products-list {
+    padding: 50px 10;
+    border-bottom: 1px solid aquamarine;
+
+    .container-products {
+        display:-moz-box;
+        justify-content: space-between;
+    }
+}
